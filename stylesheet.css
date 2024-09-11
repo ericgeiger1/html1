@@ -1,0 +1,101 @@
+
+html { background-color: black;
+}
+
+.nav {
+    display: flex;
+    position: fixed;
+    background-image: url(images/githubprofile.png);
+    background-repeat: no-repeat;
+    height: 60px;
+    top: 0;
+    margin-top: 0px;
+    width: 100vw;
+    z-index: 1;
+    align-items: center;
+
+  }
+
+  .list {
+    list-style-type: none;
+    margin-left: 250px;
+      display: flex;
+    }
+    li {
+      margin-right: 100px;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: bold;
+      font-size: 20px;
+  
+    }
+
+    .list li a {
+        font-weight: bold;
+        font-size: 20px;
+        color: #9CA4A9;
+        text-decoration: none;
+      }
+
+body {
+    
+    padding-top: 0px;
+    margin-top: 0px;
+    width: 100%;
+  }
+
+menuitem { }
+
+.main { 
+}
+
+.objective  {    
+  background-image: url('images/vscode.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: cover;
+  width: 100%;
+  height: 900px;
+  padding-top: 60px;
+  margin-top: 60px;
+
+}
+
+.education {
+}
+
+.history {
+}
+.skills {
+  height: 40rem;
+  width: 100%;
+  
+}
+
+.contact {
+
+  height: 800px;
+  width: 100%;
+  background-image: url('images/hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  margin-top: 0px;
+  padding-top: 60px;
+
+}
+
+.footer {
+
+}
+
+.img1 {
+    width: 100%;
+    height: 100%; 
+    margin-left: 45px;
+    margin-top: -30px;
+}
+
+.top {
+    display: flex;
+    justify-content:;
+}
